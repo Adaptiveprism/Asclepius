@@ -5,7 +5,7 @@ Compilation of Eastern Healing Practices
     2. Hindu Yoga
     -https://yadi.sk/i/0zmCrfTBdmWWu
     3. Bhuddist Meditation
-    -https://github.com/Adaptiveprism/Asclepius/edit/master/Bhuddist%20Meditation.txt
+    -https://raw.githubusercontent.com/Adaptiveprism/Asclepius/master/Bhuddist%20Meditation.txt
     4. Tibetan Breathing Exercises
     -http://www.scribd.com/doc/32476168/The-Ten-Tibetan-Breaths
     5. Taoist Tai Chi
