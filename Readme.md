@@ -14,6 +14,7 @@ I advise using a different mantra than Sat Nam for the Sikh Kriyas. There are ma
 
 
 The True Sound of Truth
+=========
 
 An old story speaks about a similar problem. A devoted meditator, after years concentrating on a particular mantra, had attained enough insight to begin teaching. The student's humility was far from perfect, but the teachers at the monastery were not worried. 
 
