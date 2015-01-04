@@ -39,3 +39,5 @@ The meditator gave the correct pronunciation, and the old hermit was very gratef
 The old hermit was saying the mantra very carefully, slowly, over and over, as he walked across the surface of the water back to the island. 
 
 Source: http://www.dharma-haven.org/tibetan/meaning-of-om-mani-padme-hung.htm
+
+What I have in this repository is the bare minimum of information. If you would like to do some further reading on this subject please visit: http://www.dlshq.org/download/kundalini.htm
