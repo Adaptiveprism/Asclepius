@@ -1,11 +1,7 @@
 Asclepius
 =========
 
-This is a compilation of religious and spiritual knowledge that has been disected, updated, and improved to the best of my ability.
-
-The repository should serve as a databank for those are curious about becoming well and experiencing significant mental and physical improvements.
-
-The Prescription is the essential backbone. It contains the same information as the wiki.
+This is a compilation of religious and spiritual knowledge that has been distilled, updated, and improved to the best of my ability.
 
 The Healthy Food List contains the foods you should slowly transition to. It can be difficult and wreak havoc on the body to make dietary changes too quickly.
 
@@ -16,7 +12,6 @@ It is no secret that Kundalini Yoga (Sikh Kriya), Yoga, and perhaps even the Tib
 I advise using a different mantra than Sat Nam for the Sikh Kriyas. There are many that can be used.
 
 
-Here is the Tibetan Bhuddist perspective on these matters. The True Sound of Truth is an important and very short story on the reality of spiritual practice. Here it is below;
 
 The True Sound of Truth
 
